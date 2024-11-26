@@ -1,6 +1,6 @@
 # Python file detection
 
-import os 
+import os # operating system
 
 file_path = "test.txt"
 # file_path = "C:\\Users\\gancea\\Desktop\\test.txt"

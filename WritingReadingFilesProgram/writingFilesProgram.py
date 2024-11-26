@@ -1,7 +1,7 @@
 # Python writing files (.txt .json .csv)
 
 import json
-import csv
+import csv # comma separated values
 
 #employees = ["Eugene", "Squidward", "Spongebob", "Patrick"]
 
